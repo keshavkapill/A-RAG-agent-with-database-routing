@@ -374,9 +374,7 @@ A-RAG-agent-with-database-routing/
 ├── requirements.txt        # Python dependencies, if present
 ├── .env                    # Local credentials; do not commit
 ├── .gitignore
-├── README.md
-│
-└── Additional modules       # If present in the actual project
+└── README.md
 ```
 
 ---
@@ -455,7 +453,7 @@ If you find this project interesting, consider giving the repository a star. Fee
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:4C1D95,100:8B5CF6&height=130&section=footer&text=Built%20with%20curiosity%20%26%20code&fontColor=FFFFFF&fontSize=20&animation=fadeIn" width="100%" alt="Project footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:4C1D95,100:8B5CF6&height=130&section=footer&text=Built%20with%20curiosity%20%26%20code&fontColor=FFFFFF&fontSize=20&animation=fadeIn" width="100%" alt="Decorative purple project footer"/>
 
 **Made with 💜 by [Keshav Kapil](https://github.com/keshavkapill)**
 
